@@ -7,3 +7,7 @@ Proceedings of 2nd International Conference on Pattern Recognition and Image Ana
 
 In the recent modification we have used a 5 layer deep convolutional neural network to have automatic feature engineering. This architecture 
 achieved 90% test accurcay and 99% training accuracy. We have used the l1-regularizer in order to penalize the weights and overcome the overfitting.
+
+I have taken over 60 images of 10 different iron-deficient blood slides myself by using Olympus CH40RF200 microscope equipped with a Sony Full HD 1080 digital camera with an effective magnification of 100. The blood samples are taken from the Department of Medical Sciences of University of Isfahan, Iran and Sayed-Al-Shohada Hospital located at Isfahan, Iran.
+
+My relevant paper is:
